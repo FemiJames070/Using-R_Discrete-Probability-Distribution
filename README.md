@@ -46,16 +46,3 @@ This repository contains a comprehensive statistical analysis demonstrating the 
 * **Language:** R
 * **Libraries:** `ggplot2` (for data visualization)
 * **Statistical Functions:** `dpois()`, `ppois()`, `pbinom()`, `table()`, `mean()`, `sd()`
-
-## 💻 How to Run Locally
-
-1. Clone the repository to your local machine:
-   ```bash
-   git clone [https://github.com/yourusername/discrete-probability-r.git](https://github.com/yourusername/discrete-probability-r.git)
-Open the script in RStudio or your preferred R environment.
-
-Ensure you have the ggplot2 package installed:
-
-R
-install.packages("ggplot2")
-Run the R script to execute the calculations, output the statistical summaries to the console, and generate the probability distribution bar charts.
